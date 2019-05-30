@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.test(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.test2(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.JtoClasse(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "films">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
